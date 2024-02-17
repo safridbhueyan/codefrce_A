@@ -1,5 +1,14 @@
 #include<bits/stdc++.h>
 using namespace std;
+int main(){
+int n;
+cin>>n;
+cout << (n + 4) / 5 <<endl;
+return 0;
+}
+
+/* #include<bits/stdc++.h>
+using namespace std;
 
 int main()
 {
@@ -16,3 +25,5 @@ int main()
 	int e =n/1;
 	cout<<a+b+c+d+e<<endl;
 }
+*/
+
