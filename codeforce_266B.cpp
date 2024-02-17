@@ -8,7 +8,7 @@ int n,t;
 cin>>n>>t;
 string arr;
 cin>>arr;
-while(t!=0)
+while(t!=0)//we could also use this while(t--)
 {for(int i=0;i<n;i++)
 {
     if(arr[i]=='B'&& arr[i+1]=='G')
